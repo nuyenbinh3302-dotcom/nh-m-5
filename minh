@@ -1,1 +1,6 @@
-
+3. Trừu tượng hóa đối tượng theo chức năng
+Là tập trung vào những chức năng, hành vi mà đối tượng cung cấp, đồng thời bỏ qua các chi tiết cài đặt bên trong.
+Ví dụ: Đối tượng HinhChuNhat có chức năng tinhDienTich() và tinhChuVi(). Người sử dụng chỉ cần biết cách gọi các chức năng này, không cần biết chúng được tính toán bên trong như thế nào.
+4. Trừu tượng hóa đối tượng theo dữ liệu
+Là chỉ thể hiện những dữ liệu cần thiết của đối tượng và che giấu các chi tiết dữ liệu bên trong, người dùng chỉ được truy cập dữ liệu thông qua các phương thức được cung cấp.
+Ví dụ: Đối tượng SinhVien có các dữ liệu maSV, hoTen, diem. Các dữ liệu này có thể được đặt ở chế độ private và truy cập thông qua các phương thức như getHoTen(), setDiem().
