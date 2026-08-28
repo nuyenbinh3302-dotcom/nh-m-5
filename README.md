@@ -1,4 +1,5 @@
 1: Đối tượng là gì ?
+
 Đối tượng là các thực thể trong hệ thống hoạt động khi chương trình đang chạy.
 • Ví dụ:
 - một chiếc xe nhãn hiệu "Ford", màu trắng, giá 5000$ là một đối tượng.
