@@ -1,6 +1,7 @@
 # nh-m-5
 5. Khái niệm kế thừa (Inheritance)
 Là cơ chế cho phép lớp con sử dụng lại các thuộc tính và phương thức của lớp cha.
+
 Ví dụ:
 class DongVat {
     void an() {
@@ -17,6 +18,7 @@ Cho cho = new Cho();
 cho.an();   // kế thừa từ DongVat
 cho.sua();  // riêng của Cho
 Mục đích: tái sử dụng code và tạo mối quan hệ “là một” (is-a).
+
 6. Khái niệm đóng gói (Encapsulation)
 Là việc gom dữ liệu và các phương thức xử lý dữ liệu vào cùng một lớp, đồng thời hạn chế truy cập trực tiếp vào dữ liệu bên trong.
 Ví dụ:
