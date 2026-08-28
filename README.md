@@ -3,16 +3,19 @@
 Là cơ chế cho phép lớp con sử dụng lại các thuộc tính và phương thức của lớp cha.
 
 Ví dụ:
+
 class DongVat {
     void an() {
         System.out.println("Đang ăn");
     }
 }
+
 class Cho extends DongVat {
     void sua() {
         System.out.println("Gâu gâu");
     }
 }
+
 Cho kế thừa DongVat nên có thể sử dụng cả:
 Cho cho = new Cho();
 cho.an();   // kế thừa từ DongVat
