@@ -21,6 +21,9 @@
      + Trừu tượng hóa đối tượng theo chức năng và theo dữ liệu: Phạm Bách Minh
      + Khái niệm kế thừa và đóng gói: Nguyễn Nam Khánh
      + Khái niệm đa hình: Lục Bình Nguyên
+  
+
+       
 3. Trừu tượng hóa đối tượng theo chức năng
 Là tập trung vào những chức năng, hành vi mà đối tượng cung cấp, đồng thời bỏ qua các chi tiết cài đặt bên trong.
 Ví dụ: Đối tượng HinhChuNhat có chức năng tinhDienTich() và tinhChuVi(). Người sử dụng chỉ cần biết cách gọi các chức năng này, không cần biết chúng được tính toán bên trong như thế nào.
