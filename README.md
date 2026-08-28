@@ -73,8 +73,4 @@ Trừu tượng hóa theo chức năng: Đối tượng làm được gì?
 
 Trừu tượng hóa theo dữ liệu: Đối tượng có dữ liệu gì và dữ liệu được quản lý như thế nào?
 
-4. Kết luận
 
-Trừu tượng hóa giúp che giấu những chi tiết không cần thiết và chỉ cung cấp cho người sử dụng những thông tin, chức năng cần thiết. Điều này giúp chương trình dễ sử dụng, dễ quản lý, an toàn hơn và dễ bảo trì.
-
-Trong lập trình hướng đối tượng, việc kết hợp trừu tượng hóa theo chức năng và theo dữ liệu giúp xây dựng các đối tượng có cấu trúc rõ ràng, hạn chế sự phụ thuộc giữa các thành phần của chương trình.
