@@ -47,4 +47,4 @@ soDu là private nên bên ngoài không thể tự ý thay đổi:
 TaiKhoan tk = new TaiKhoan();
 tk.napTien(100000);  // được phép
 
-👉 Lợi ích: bảo vệ dữ liệu, kiểm soát cách dữ liệu được thay đổi và giảm sự phụ thuộc giữa các phần của chương trình.
+Lợi ích: bảo vệ dữ liệu, kiểm soát cách dữ liệu được thay đổi và giảm sự phụ thuộc giữa các phần của chương trình.
